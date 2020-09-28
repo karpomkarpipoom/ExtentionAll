@@ -1,0 +1,6 @@
+framework module Extention_All {
+  umbrella header "Extention-All-umbrella.h"
+
+  export *
+  module * { export * }
+}

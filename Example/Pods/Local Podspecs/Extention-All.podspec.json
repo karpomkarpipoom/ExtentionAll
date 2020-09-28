@@ -1,0 +1,22 @@
+{
+  "name": "Extention-All",
+  "version": "0.1.0",
+  "summary": "A short description of Extention-All.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/karpomkarpipoom/Extention-All",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "karpomkarpipoom": "karpomkarpipoom@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/karpomkarpipoom/Extention-All.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Extention-All/Classes/**/*"
+}
